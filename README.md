@@ -4,7 +4,7 @@ O SMARTBIZ é um sistema de gerenciamento simples e eficiente, desenvolvido em P
 auxiliar no controle de produtos e vendas em pequenos negócios ou servir como exercício prático de programação. 
 Ele oferece menus interativos e funcionalidades essenciais, proporcionando uma experiência intuitiva e organizada.
 
-##**Funcionalidades Principais:**
+## **Funcionalidades Principais:**
 - **Menu Principal**:
     - **Cadastrar**: Adicione novos produtos com ID, nome, estoque, valor de compra e valor de venda.
     - **Pesquisar**: Localize produtos específicos utilizando o ID.
